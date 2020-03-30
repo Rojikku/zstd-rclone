@@ -4,4 +4,4 @@ MAINTAINER Rojikku
 
 RUN apk --no-cache add zstd bash
 
-ENTRYPOINT ["/bin/bash"]
+ENTRYPOINT [""]
